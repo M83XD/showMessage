@@ -1,1 +1,1 @@
-# deger-belirleme
+# Bu örnekte, showMessage işlevi, function anahtar sözcüğü kullanılarak tanımlanır. Düğme tıklandığında, işlev kullanıcıya adını sormak için bilgi istemi yöntemini kullanır. Kullanıcı tarafından girilen değer name değişkeninde saklanır. Ardından "Merhaba, [ad]!" metnini içeren bir uyarı mesajı görüntülenir; burada [ad], kullanıcı tarafından girilen değerdir. Düğmenin onclick niteliği, düğme tıklandığında showMessage işlevini çağıracak şekilde ayarlanmıştır.
